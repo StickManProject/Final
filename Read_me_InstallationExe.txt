@@ -1,6 +1,6 @@
 Installer Stickman Galactica :
 
-1. Dézipper les StickMan.part.rar 
+1. Dézipper les StickG.part.rar 
 
 2. executer le fichier StickG.msi
 
